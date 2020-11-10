@@ -1,5 +1,5 @@
-python-for-android
-==================
+# python-for-android
+## This fork changes the version of the SDL2_TTF library from 2.0.14 to 2.0.15. It is not maintained.
 
 [![Build Status](https://travis-ci.org/kivy/python-for-android.svg?branch=develop)](https://travis-ci.org/kivy/python-for-android)
 [![Unit tests & build apps](https://github.com/kivy/python-for-android/workflows/Unit%20tests%20&%20build%20apps/badge.svg?branch=develop)](https://github.com/kivy/python-for-android/actions?query=workflow%3A%22Unit+tests+%26+build+apps%22)
